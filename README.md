@@ -4,3 +4,7 @@ This is a simple Node.js application which consumes the Openweathermap API to di
 ## LICENSE
 
 License: [MIT](licencse)
+
+## Final product
+
+![Final Image](finalImage.png)
